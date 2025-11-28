@@ -13,6 +13,9 @@ BANORI dibuat untuk membantu pengguna memperbaiki pakaian mereka — dari pakaia
 ## ⚙️ Teknologi / Platform  
 - Web statis/hosting (via Netlify) — cocok untuk situs landing page / promosi layanan.  
 - Struktur HTML / CSS / (opsional) JavaScript untuk bagian interaktif / navigasi.  
+## Preview Website
+
+![Tampilan BANORI — About Page](bn/images/Preview%20Bnr/about%20bnr.PNG)
 
 ## 🚀 Cara Menjalankan (jika di-clone/deploy sendiri)  
 ```bash
@@ -21,3 +24,5 @@ cd banori
 # Jika ada build step (misalnya bundler / preprocessor), jalankan sesuai instruksi
 # Misalnya: npm install && npm run build
 # Setelah itu: buka index.html di browser / deploy ke hosting web
+
+
