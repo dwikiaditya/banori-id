@@ -17,7 +17,6 @@ BANORI dibuat untuk membantu pengguna memperbaiki pakaian mereka — dari pakaia
 ![Tampilan BANORI — Home Page](bn/images/Preview%20Bnr/home%20bnr.PNG)
 ![Tampilan BANORI — About Page](bn/images/Preview%20Bnr/about%20bnr.PNG)
 ![Tampilan BANORI — Layanan Page](bn/images/Preview%20Bnr/layanan%20bnr.PNG)
-![Tampilan BANORI — Menu Page](bn/images/Preview%20Bnr/menu%20bnr.PNG)
 ![Tampilan BANORI — Mobile](bn/images/Preview%20Bnr/mobile%20bnr.PNG)
 ## 🚀 Cara Menjalankan (jika di-clone/deploy sendiri)  
 ```bash
